@@ -1,1 +1,1 @@
-worker: ./target/release/probot
+web: ./target/release/probot
